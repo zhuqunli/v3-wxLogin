@@ -1,6 +1,8 @@
 {
-  "name": "create-app",
-  "version": "0.0.0",
+  "name": "v3-wxLogin",
+  "version": "0.0.1",
+  "author": "Lambda",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
